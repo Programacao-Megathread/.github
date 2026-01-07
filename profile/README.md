@@ -1,0 +1,1 @@
+![Programação Megathread](../assets/banner-github.png "Brazilian community")
